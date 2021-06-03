@@ -66,6 +66,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shiyun-lian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/shiyun-lian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shiyun%20Lian%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:shiyun.lian@sjsu.edu"><img alt="Email" src="https://img.shields.io/badge/Email-shiyun.lian@sjsu.edu-blue?style=flat-square&logo=gmail"></a>
 </p>

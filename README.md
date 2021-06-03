@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Shiyun.</h2>
 
@@ -57,7 +56,7 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/shiyunlian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiyunlian&theme=buefy&show_icons=true" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiyunlian&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiyunlian&theme=buefy&layout=compact" />
 </a>
 

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Physics at San José State University.
+- 🎓 &nbsp; Holding a Bachelor's degree of Computer Science at San José State University.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -38,18 +38,12 @@ Here are some ideas to get you started:
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![DynamoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=dynamodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+
 
 <br/>
 
@@ -65,5 +59,4 @@ Here are some ideas to get you started:
 <p align="center">
 
 <a href="https://www.linkedin.com/in/shiyun-lian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shiyun%20Lian%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:shiyun.lian@sjsu.edu"><img alt="Email" src="https://img.shields.io/badge/Email-shiyun.lian@sjsu.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
